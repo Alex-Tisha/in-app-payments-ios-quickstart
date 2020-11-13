@@ -18,14 +18,14 @@ import Foundation
 
 struct Constants {
     struct ApplePay {
-        static let MERCHANT_IDENTIFIER: String = "REPLACE_ME"
+        static let MERCHANT_IDENTIFIER: String = "sq0idb-GarwGCUxTGUW1K8v9TXxeg"
         static let COUNTRY_CODE: String = "US"
         static let CURRENCY_CODE: String = "USD"
     }
 
     struct Square {
-        static let SQUARE_LOCATION_ID: String = "<# REPLACE_ME #>"
-        static let APPLICATION_ID: String  = "<# REPLACE_ME #>"
+        static let SQUARE_LOCATION_ID: String = "<# L206XP7YXN4VS #>"
+        static let APPLICATION_ID: String  = "<# sq0idb-GarwGCUxTGUW1K8v9TXxeg #>"
         static let CHARGE_SERVER_HOST: String = "REPLACE_ME"
         static let CHARGE_URL: String = "\(CHARGE_SERVER_HOST)/chargeForCookie"
     }
